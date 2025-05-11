@@ -15,7 +15,7 @@ Wireframes hinge on a few key pieces:
 
 These elements shape a design that’s intuitive and user-focused.
 
-## Types of Wireframse
+## Types of Wireframes
 
 - **Low-Fidelity**: Quick, rough sketches (digital or paper) with basic shapes and placeholders. Used early to brainstorm and iterate fast—like drafting an app’s homepage layout.
 - **High-Fidelity**: Detailed mockups with precise fonts, spacing, and visuals. Perfect for final tweaks or client demos before coding starts.
